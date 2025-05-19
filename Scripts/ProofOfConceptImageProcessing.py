@@ -3,7 +3,7 @@ import numpy as np
 import math
 
 # Read the image
-image = cv2.imread('clearsky.jpg')
+image = cv2.imread('Experiment_Images/clearsky.jpg')
 
 # Get the dimensions of the image
 height, width, _ = image.shape
